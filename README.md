@@ -5,6 +5,7 @@ Requirement:
 - Node.js version 18 or higher
 
 Here are the steps to run the app:
+
 npm i --legacy-peer-deps
 npm run dev
 
